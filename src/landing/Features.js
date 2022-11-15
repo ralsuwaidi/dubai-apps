@@ -32,8 +32,8 @@ export default function Features() {
     <div className="bg-white pb-24 sm:pb-32 lg:py-40">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="sm:text-center">
-          <h2 className="text-lg font-semibold leading-8 text-indigo-600">نهدف إلى جعل دبي مركزًا لواجهة التطبيقات لاقتصاد التطبيقات العالمي</h2>
-          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">عن المبادرة</p>
+          <h2 className="text-lg font-semibold leading-8 text-indigo-600 text-end">نهدف إلى جعل دبي مركزًا لواجهة التطبيقات لاقتصاد التطبيقات العالمي</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl text-end">عن المبادرة</p>
           <p className="mx-auto mt-6 max-w-2xl text-lg leading-8 text-gray-600 text-end">
           طبق في دبي احد مبادرات حكومة دبي، و التي تعمل على تمكين المبرمجين ودعم مجتمعات البرمجة وكافة المهتمين بإطلاق مشاريعهم عبر الهواتف الذكيه و اطلاق تطبيقات نوعيه. 
 سواء كنت مبتدئًا ولديك فكرة قابلة للتطبيق ولكنك لا تمتلك مهارات في البرمجة أو مطورًا محترفًا، توفر لك طبق في دبي امكاني تطبيق افكارك، و مشاريعك الرقمية. 

@@ -126,14 +126,14 @@ export default function Hero() {
                 {/* <h1 className="text-4xl font-bold tracking-tight sm:text-center sm:text-6xl">
                   طبق في دبي
                 </h1> */}
-                <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center">
+                <p className="mt-6 text-lg leading-8 text-gray-600 sm:text-center text-end">
                 ل ترغب بأن تكون ضمن 1,000 إماراتي مبدع للاستفادة من برنامج تطوير "طبّقْ في دبي" والذي يمنحك الفرصة للتدريب والتأهيل لتبرمج التطبيق الملياري القادم
                 </p>
-                <div className="mt-8 flex gap-x-4 sm:justify-center">
+                <div className="mt-8 flex gap-x-4 sm:justify-center justify-end">
                   <FormButton
                     formClass="inline-block rounded-lg bg-indigo-600 px-4 py-1.5 text-base font-semibold leading-7 text-white shadow-sm ring-1 ring-indigo-600 hover:bg-indigo-700 hover:ring-indigo-700"
                   >
-                    Get started
+                    ابدء الان
                     <span className="text-indigo-200" aria-hidden="true">
                       &rarr;
                     </span>
