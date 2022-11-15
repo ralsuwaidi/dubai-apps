@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dubai-apps/static/css/main.6bae04e2.css",
+    "main.js": "/dubai-apps/static/js/main.666d1f42.js",
+    "static/js/787.08179379.chunk.js": "/dubai-apps/static/js/787.08179379.chunk.js",
+    "static/media/logo.png": "/dubai-apps/static/media/logo.acc4ab08275a1dbae3ef.png",
+    "index.html": "/dubai-apps/index.html",
+    "main.6bae04e2.css.map": "/dubai-apps/static/css/main.6bae04e2.css.map",
+    "main.666d1f42.js.map": "/dubai-apps/static/js/main.666d1f42.js.map",
+    "787.08179379.chunk.js.map": "/dubai-apps/static/js/787.08179379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bae04e2.css",
+    "static/js/main.666d1f42.js"
+  ]
+}
